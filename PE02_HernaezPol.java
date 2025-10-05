@@ -183,10 +183,7 @@ if (falta2.equals("a")){
         golLocal = (golLocal + 1);
         System.out.println("El partit s'acaba.");
          }
-        else {
-            System.out.println("Resposta no vàlida");
-            System.exit(0);
-        }
+        
     }
     else if (xutar.equals("b")){
         System.out.println("Xutes rasa al primer pal.");
